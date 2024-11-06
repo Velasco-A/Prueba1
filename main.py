@@ -8,6 +8,7 @@ def minimo_comun_multiplo(a, b):
 
 # Ejemplo de uso
 numero1 = int(input("Ingrese el primer número: "))
+kmnbsdjcjsd
 numero2 = int(input("Ingrese el segundo número: "))
 minimo_comun_multiplo(numero1, numero2)
 
